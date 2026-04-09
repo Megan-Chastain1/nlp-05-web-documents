@@ -121,7 +121,7 @@ uvx pre-commit run --all-files
 
 # First, run the module
 # IMPORTANT: Close each figure after viewing so execution continues
-uv run python -m nlp.pipeline_web_html
+
 
 uv run ruff format .
 uv run ruff check . --fix
