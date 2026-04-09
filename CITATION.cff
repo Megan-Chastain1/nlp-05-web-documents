@@ -23,7 +23,18 @@ authors:
 repository-code: "https://github.com/denisecase/nlp-05-web-documents"
 url: "https://github.com/denisecase/nlp-05-web-documents"
 license: MIT
+  -  - family-names: Case
+    given-names: Denise M.
+    orcid: "https://orcid.org/0000-0001-6165-7389"
+    affiliation: "Northwest Missouri State University, USA"
 
+repository-code: "https://github.com/denisecase/nlp-05-web-documents"
+url: " - family-names: Chastain
+    given-names: Megan
+    affiliation: "Northwest Missouri State University, USA"
+
+repository-code: "https://github.com/meganchastain1/nlp-05-web-documents"
+url: "https://github.com/meganchastain1/nlp-05-web-documents"
 abstract: |
   Web Mining and Applied NLP Example Project 5 - extracting structured data
   from HTML web pages using an EVTL pipeline, BeautifulSoup, and Pandas.
